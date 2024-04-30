@@ -50,3 +50,25 @@
 .card-profile-body{
     padding: 0px 20px;
 }
+
+.card3{
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+
+}
+.card3-img{
+    height: 250px;
+    width: 100%;
+    
+}
+.cardbody3{
+    padding: 10px 10px;
+}
+.btn-view{
+    background-color: white;
+    color: blue;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
